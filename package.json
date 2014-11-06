@@ -3,6 +3,9 @@
   "version": "1.0.0",
   "description": "An API that insults yo momma.",
   "main": "index.js",
+  "engines": {
+    "node": "0.10.33"
+  },
   "dependencies": {
     "express": "^4.10.1",
     "logfmt": "^1.2.0"
