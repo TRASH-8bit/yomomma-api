@@ -1,0 +1,32 @@
+{
+  "name": "yomomma-api",
+  "version": "1.0.0",
+  "description": "An API that insults yo momma.",
+  "main": "index.js",
+  "dependencies": {
+    "express": "^4.10.1",
+    "logfmt": "^1.2.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/rdegges/yomomma-api"
+  },
+  "keywords": [
+    "insults",
+    "momma",
+    "yomomma",
+    "yo",
+    "api",
+    "expressjs"
+  ],
+  "author": "Randall Degges",
+  "license": "UNLICENSE",
+  "bugs": {
+    "url": "https://github.com/rdegges/yomomma-api/issues"
+  },
+  "homepage": "https://github.com/rdegges/yomomma-api"
+}
