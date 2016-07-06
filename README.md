@@ -1,8 +1,9 @@
 # yomomma-api
 
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/45cc0d861a9244c4a14ca62b5fcf61ce)](https://www.codacy.com/app/r/yomomma-api?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=rdegges/yomomma-api&amp;utm_campaign=Badge_Grade)
+
 *An API that insults yo momma.*
 
-[![Codacy Badge](https://api.codacy.com/project/badge/Grade/45cc0d861a9244c4a14ca62b5fcf61ce)](https://www.codacy.com/app/r/yomomma-api?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=rdegges/yomomma-api&amp;utm_campaign=Badge_Grade)
 
 
 ## Purpose
