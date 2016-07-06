@@ -1,6 +1,7 @@
 # yomomma-api
 
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/45cc0d861a9244c4a14ca62b5fcf61ce)](https://www.codacy.com/app/r/yomomma-api?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=rdegges/yomomma-api&amp;utm_campaign=Badge_Grade)
+[![Build Status](https://travis-ci.org/rdegges/yomomma-api.svg?branch=master)](https://travis-ci.org/rdegges/yomomma-api)
 
 *An API that insults yo momma.*
 
