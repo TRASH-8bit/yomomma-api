@@ -3,7 +3,7 @@ var fs = require("fs");
 var logfmt = require("logfmt");
 
 var app = express();
-var jokes = fs.readFileSync("jokes.txt").toString().split(""\n");
+var jokes = fs.readFileSync("jokes.txt").toString().split("\n");
 
 app.use(logfmt.bodyParserStream());
 
